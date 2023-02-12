@@ -6,7 +6,7 @@
     "title": "Project supervisor",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/maher-al-aqil-56895894/",
         "icon": "linkedIn"
       },
@@ -20,11 +20,11 @@
   {
     "id": "2",
     "name": "Kutay Kağan Özen",
-    "img": "https://media-exp1.licdn.com/dms/image/C4E03AQHdVCFCMpleXA/profile-displayphoto-shrink_400_400/0/1644323192070?e=1673481600&v=beta&t=KegoYa3Bxr0W_xVi_d6uGDxhpaF1Tlgpyq16AUT5YTo",
-    "title": "Lead Engineer",  
+    "img": "https://media.discordapp.net/attachments/1054797763348541583/1068107892529582110/Kutay.jpg",
+    "title": "Lead Engineer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/kutay-ka%C4%9Fan-%C3%B6zen/",
         "icon": "linkedIn"
       },
@@ -39,10 +39,10 @@
     "id": "3",
     "name": "Karzan Luqman",
     "img": "https://avatars.githubusercontent.com/u/77196732?v=4",
-    "title": "Web Developer", 
+    "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/karzan7899",
         "icon": "linkedIn"
       },
@@ -60,7 +60,7 @@
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/dania-deyar-097558243/",
         "icon": "linkedIn"
       },
@@ -75,10 +75,10 @@
     "id": "5",
     "name": "Rondik Mousa",
     "img": "https://ca.slack-edge.com/T03K5TU7K0E-U03ME7K3Q07-7c77b4b5ec30-512",
-    "title": "Web Developer",  
+    "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/rondik-mousa-646653256/",
         "icon": "linkedIn"
       },
@@ -93,10 +93,10 @@
     "id": "7",
     "name": "Marwa Hakmi",
     "img": "https://ca.slack-edge.com/T03K5TU7K0E-U03M7GU31T9-c3416698ca47-512",
-    "title": "Web Developer", 
+    "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/marwa-hakmi/",
         "icon": "linkedIn"
       },
@@ -111,10 +111,10 @@
     "id": "8",
     "name": "Ayub Abdullah",
     "img": "https://ca.slack-edge.com/T03K5TU7K0E-U03MFBY877G-fa68f334cdc6-512",
-    "title": "Web Developer", 
+    "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/mwlite/in/ayub-abdullah",
         "icon": "linkedIn"
       },
@@ -129,10 +129,10 @@
     "id": "9",
     "name": "Omar Bassatni",
     "img": "https://ca.slack-edge.com/T03K5TU7K0E-U03ML8M4TDK-39b1e18f3beb-512",
-    "title": "Web Developer", 
+    "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/omar-bassatni-40a762188/",
         "icon": "linkedIn"
       },
@@ -147,10 +147,10 @@
     "id": "10",
     "name": "Sarah Abou Dalal",
     "img": "https://cdn.discordapp.com/attachments/1035620424366698537/1040399760936407140/20221111_005321.jpg",
-    "title": "Web Developer", 
+    "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/sarah-abou-dalal-977891250",
         "icon": "linkedIn"
       },
@@ -164,11 +164,11 @@
   {
     "id": "11",
     "name": "Oussama Masri",
-    "img": "https://media-exp1.licdn.com/dms/image/C4E03AQHVkuZrm119sw/profile-displayphoto-shrink_400_400/0/1664138752140?e=1673481600&v=beta&t=Tck8GXnCVLTgOpaFkt3JcPICGcKrGqhPRJTXvK8e5cs",
+    "img": "https://media.discordapp.net/attachments/1054797763348541583/1068108903717539840/20220704_141737.jpg?width=671&height=671",
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/oussama-masri-558445244",
         "icon": "linkedIn"
       },
@@ -186,7 +186,7 @@
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/mawa-idrees/",
         "icon": "linkedIn"
       },
@@ -204,7 +204,7 @@
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/viyan-najmadin-5a27a2221/",
         "icon": "linkedIn"
       },
@@ -222,7 +222,7 @@
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/hiba-dawood-93b5ab133",
         "icon": "linkedIn"
       },
@@ -236,11 +236,11 @@
   {
     "id": "15",
     "name": "Zahraa Mahmood",
-    "img": "https://images-ext-1.discordapp.net/external/v3hBuX4Izg5bw5M86rQ4c-n9XmSzCKyvz2VNvB0Sa8Q/%3Fe%3D1673481600%26v%3Dbeta%26t%3DidTOSgPpLg5IPA2mXP2QOW_BDyMHT1yCedhkIt4DZ9o/https/media-exp1.licdn.com/dms/image/D4E03AQHKQsWIAMPs6g/profile-displayphoto-shrink_400_400/0/1665437478526",
+    "img": "https://media.discordapp.net/attachments/1054797763348541583/1068109295109017671/1665437478526.jpg?width=671&height=671",
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/zahraa-mahmood/",
         "icon": "linkedIn"
       },
@@ -258,7 +258,7 @@
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "http://www.linkedin.com/in/maria-theresa-azzi",
         "icon": "linkedIn"
       },
@@ -276,7 +276,7 @@
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "http://www.linkedin.com/in/maria-theresa-azzi",
         "icon": "linkedIn"
       },
@@ -294,7 +294,7 @@
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/maryam-haitham",
         "icon": "linkedIn"
       },
@@ -312,7 +312,7 @@
     "title": "Web Developer",
     "links": [
       {
-        "name": "linkedIn",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/asaad-abughazaleh/",
         "icon": "linkedIn"
       },
